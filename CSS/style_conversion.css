@@ -12,7 +12,7 @@
 }
 
 body {
-    background-image: url('Creative_Folder\966321.jpg');
+    background-image: url('../Creative_Folder/966321.jpg');
     background-size: cover;
     background-attachment: fixed;
     min-height: 100vh;
